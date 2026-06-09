@@ -1,0 +1,7 @@
+# See https://github.com/check-spelling/check-spelling/wiki/Configuration-Examples:-patterns
+
+# localization keys
+^\s*\w+:
+
+# localization substitutions
+%\{\w+\}

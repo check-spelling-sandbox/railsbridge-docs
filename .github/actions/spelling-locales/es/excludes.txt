@@ -1,0 +1,2 @@
+^\.github/actions/spelling
+^public/flags/ES\.png$
