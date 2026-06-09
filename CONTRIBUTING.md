@@ -74,8 +74,7 @@ able to familiarize yourself with some concepts from git and GitHub. It's going
 to be a lot of information, but you're :sparkles:awesome:sparkles:! So you'll
 be fine.
 
-First, you'll need a GitHub account, which is totally free. You can sign up
-[here](https://github.com/join).
+First, you'll need a GitHub account, which is totally free. You can [sign up](https://github.com/signup).
 
 Next, browse the [GitHub Help site](https://help.github.com) and the
 [GitHub Guides](https://guides.github.com/). The Help Site is more technical, and the
