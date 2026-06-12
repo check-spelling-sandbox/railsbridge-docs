@@ -57,7 +57,7 @@ Open up store.js in your text editor. There, you should see a ListStore object d
     JAVASCRIPT
 
     message <<-MARKDOWN
-This is where all the logic of our application will be performed! Whenever we need to execute a calcuation, or
+This is where all the logic of our application will be performed! Whenever we need to execute a calculation, or
 make an AJAX request, our program will call a function on the ListStore object. For instance, when we want to load
 all items from our server, you would write a line of code like this:
     MARKDOWN
