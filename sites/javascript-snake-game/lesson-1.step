@@ -49,7 +49,7 @@ steps do
 
     message <<-MARKDOWN
       Press enter. Your browser should now look like this:
-      <img src="img/browser_console.png" alt="image of browser console with console.log"></img>
+      <img src="img/browser_console.png" alt="browser console with console.log"></img>
 
       Congrats, you just wrote your first lines of JavaScript code! __console.log__ is an important function –
       it allows you to print information to the browser's console. It's very helpful in debugging! You can also
