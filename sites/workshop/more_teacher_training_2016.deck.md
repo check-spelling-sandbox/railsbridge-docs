@@ -382,7 +382,7 @@ A tool for assessing how well the class understands a topic before moving on
 ###  **Gold**  - Some Rails Experience
 
 * Comfortable using terminal, but not a power user
-* Have general understanding of Rails app's strucutre, maybe a prior workshop or tutorial
+* Have general understanding of Rails app's structure, maybe a prior workshop or tutorial
 * Knows how to define a method in Ruby
 * Has decent handle on Ruby arrays and hashes
 
