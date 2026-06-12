@@ -28,7 +28,7 @@ steps do
     message <<MARKDOWN
 First thing's first: we'll be modifying our HTML. Open up index.html in your text editor. You should see something like this:
 
-<img src='img/text_editor_html.png' alt="html page open in a text editor">
+<img src='img/text_editor_html.png' alt="html page open in a text editor with syntax highlighting">
 
 Take a look around. What are the different elements doing? Why are some lines indented deeper
 than others? What are those strange series of numbers and ampersands?
