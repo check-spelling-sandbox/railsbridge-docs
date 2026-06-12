@@ -50,11 +50,11 @@ explanation do
 
 ## Inline vs. Linked
 
-Javascript and CSS can both be put directly into the HTML page, but on bigger projects, you'll usually want to place your JS and CSS in separate files and include those files in your HTML with a link.
+JavaScript and CSS can both be put directly into the HTML page, but on bigger projects, you'll usually want to place your JS and CSS in separate files and include those files in your HTML with a link.
 
 Linking files will help you keep your code organized and easier to maintain. It means, for example, that if you change the style of buttons on your website, you'll be able to change it in just one place, instead of having to update every page.
 
-### Javascript
+### JavaScript
 
 * A JavaScript tag looks like this when it's wrapping code written right into the HTML page:
 

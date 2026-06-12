@@ -85,14 +85,14 @@ steps do
   end
 
   step do
-    message "Variables can also hold more than just numbers and text. Another type of data in Javascript is called an **array**."
+    message "Variables can also hold more than just numbers and text. Another type of data in JavaScript is called an **array**."
 
     source_code :javascript, 'var fruits = ["kiwi", "strawberry", "plum"]'
     message <<-MARKDOWN
       Here we're using the variable `fruits` to hold a collection of fruit names.
       An array, designated by the `[ ]` (square-brackets), is a list of data that can be referenced by its index.
       The index is the position inside the array, each separated by a comma. Arrays use 0-based indices, so the first element in an array is at Index 0, the second is at index 1, and so on.
-      For example, in the array above, to get the string 'strawberry' in Javascript, you would type 'fruits[1]', which Javascript understands as: get the value at index 1 in the array fruits.
+      For example, in the array above, to get the string 'strawberry' in JavaScript, you would type 'fruits[1]', which JavaScript understands as: get the value at index 1 in the array fruits.
     MARKDOWN
   end
 

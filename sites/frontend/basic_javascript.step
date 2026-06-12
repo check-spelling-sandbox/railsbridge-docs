@@ -18,7 +18,7 @@ HTML
   end
 
   step do
-    message "Type in this short script. Javascript is case-specific (it treats `mynewname` and `myNewName` as two different things) and picky about syntax. If your script doesn't run, check carefully for typos."
+    message "Type in this short script. JavaScript is case-specific (it treats `mynewname` and `myNewName` as two different things) and picky about syntax. If your script doesn't run, check carefully for typos."
 
     source_code :html, <<HTML
 <script>
@@ -41,7 +41,7 @@ Once you answer the prompt, you should see the bold text that was your name chan
 <img src='img/hello_omg.png'>
     MARKDOWN
 
-    important "It takes years to become a Javascript expert. Don't worry if you found the last step confusing or had trouble getting your script to run. The most important thing to note is that you can put Javascript **directly** into your document if you want to, by wrapping it in a `script` tag, and use this script to add interactivity to the page."
+    important "It takes years to become a JavaScript expert. Don't worry if you found the last step confusing or had trouble getting your script to run. The most important thing to note is that you can put JavaScript **directly** into your document if you want to, by wrapping it in a `script` tag, and use this script to add interactivity to the page."
   end
 end
 
@@ -52,7 +52,7 @@ explanation do
 
 ## Why JavaScript?
 
-Javascript allows you to make your pages interactive. You can use it to build
+JavaScript allows you to make your pages interactive. You can use it to build
 anything from a simple animation to a giant web application like Twitter
 or GitHub. It gives you total control to add, remove, or modify content you've
 made with HTML. You can also use it to change styles and add or remove
@@ -103,7 +103,7 @@ MARKDOWN
 source_code :js, "document.onclick = replaceName;"
 
 
-tip "Some elements of this script, like 'document.onclick' or the '.innerHTML' property, are a little out of date. They're great ways to start playing with Javascript, but when you write your own pro Javascript, you may want to use more contemporary techniques or a library like jQuery that will do these things for you in a less clunky way."
+tip "Some elements of this script, like 'document.onclick' or the '.innerHTML' property, are a little out of date. They're great ways to start playing with JavaScript, but when you write your own pro JavaScript, you may want to use more contemporary techniques or a library like jQuery that will do these things for you in a less clunky way."
 
 end
 

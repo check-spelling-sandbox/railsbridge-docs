@@ -2,7 +2,7 @@ markdown <<-MARKDOWN
 
   ### Goal
 
-  Today, we're going to recreate the classic game ~SNAKE!~ in the Javascript programming language.
+  Today, we're going to recreate the classic game ~SNAKE!~ in the JavaScript programming language.
   By the end of this session, you should understand the basics of the JavaScript language and how you can use it in a web browser.
 
   The game you are going to create is going to work quite a bit like this:
@@ -29,7 +29,7 @@ markdown <<-MARKDOWN
   ### Schedule
 
   * 2-ish hours of basic JavaScript syntax.
-  * 3-ish hours of creating and playing with a Javascript game and animations.
+  * 3-ish hours of creating and playing with a JavaScript game and animations.
 
   This is just a rough guideline, not a mandate. Some steps you'll go
   over and some you'll go under. It'll all work out by the end of the

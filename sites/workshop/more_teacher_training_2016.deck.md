@@ -409,7 +409,7 @@ A tool for assessing how well the class understands a topic before moving on
 * Made a webpage before, maybe at a RailsBridge Front End Workshop
 * No experience with programming languages other than HTML and CSS
 
-### **Orange**  - Programmer new to Javascript
+### **Orange**  - Programmer new to JavaScript
 
 * Comfortable making a complex webpage
 * Some experience in programming language like ActionScript, C, Java, Ruby or Python

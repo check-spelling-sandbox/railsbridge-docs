@@ -1,1 +1,1 @@
-// Your Javascript will go here!
+// Your JavaScript will go here!

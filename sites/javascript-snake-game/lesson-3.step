@@ -34,7 +34,7 @@ markdown <<-MARKDOWN
   drawSnake(snake);
   ```
   
-  Because Javascript interprets code from top to bottom we can't call
+  Because JavaScript interprets code from top to bottom we can't call
   functions until after we've defined them. Make sure you put this code at the
   end of the `snake.js` file.
 MARKDOWN
