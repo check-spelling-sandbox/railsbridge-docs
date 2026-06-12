@@ -371,7 +371,7 @@ A tool for assessing how well the class understands a topic before moving on
 
 * Student has little or no experience with the terminal or a graphical IDE
 * Might be familiar with HTML or CSS, but not necessarily
-* Unfamiliar with terms like methids, arrays, lists, hashes, or dictionaries
+* Unfamiliar with terms like methods, arrays, lists, hashes, or dictionaries
 
 ### **Green**  - Somewhat New to Programming
 
