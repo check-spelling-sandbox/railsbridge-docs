@@ -7,7 +7,7 @@ overview do
   message <<-MARKDOWN
 ## What is CSS?
 
-CSS stands for *C*ascading *S*tyle*s*heets. It's a language for creating **rules** that
+CSS stands for *C*ascading *S*tyle *S*heets. It's a language for creating **rules** that
 can **select** various elements on the page and change their **visual properties**.
 
 * *C*ascading - this is how the browser determines the correct style rules to apply to
