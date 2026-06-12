@@ -60,7 +60,7 @@ js_expected_results 'lesson-6'
 markdown <<-MARKDOWN
   ### Switch statement
 
-  A `switch` statement is another way to organize a seried of `if` and `else if`s. Here's an example:
+  A `switch` statement is another way to organize a series of `if` and `else if`s. Here's an example:
 
   ```js
   switch(color) {
