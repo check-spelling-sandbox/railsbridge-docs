@@ -64,7 +64,7 @@ step do
   1 = 1
   "a" = 1
   IRB
-  message "(Notice in the last example we put the a in quotation marks to make it a string.)"
+  message "(Notice in the last example we put the 'a' in quotation marks to make it a string.)"
 end
 
 step do
