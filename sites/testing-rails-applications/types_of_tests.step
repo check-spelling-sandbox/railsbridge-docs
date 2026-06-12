@@ -91,7 +91,7 @@ steps do
 
   step do
     message <<-MARKDOWN
-      Last but not least: view tests! Below is an short snippet of a possible Orange show HTML page you can create in your app:
+      Last but not least: view tests! Below is a short snippet of a possible Orange show HTML page you can create in your app:
     MARKDOWN
 
     source_code :erb, <<-ERB
