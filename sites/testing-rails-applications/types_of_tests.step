@@ -8,7 +8,7 @@ MARKDOWN
 
 steps do
   step do
-    message "First, create a orange model. By creating the model, a spec file will also be added to the models folder of the spec folder. Type this in the terminal:"
+    message "First, create an orange model. By creating the model, a spec file will also be added to the models folder of the spec folder. Type this in the terminal:"
 
     console_without_message "rails generate model Orange"
 
