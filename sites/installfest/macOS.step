@@ -3,7 +3,15 @@ step "Learn your Mac OS X Version" do
 
 * Click on the Apple icon in the top left of your screen.
 * Select "About This Mac"
-* In the window that comes up, under the title "Mac OS X" there will be a version number.
+* In the window that comes up, under the title "Mac OS X", "OS X", or "macOS", or to the right of "macOS", there will be a version number.
+  * If it starts with 26, you have **Tahoe**.
+  * If it starts with 15, you have **Sequoia**.
+  * If it starts with 14, you have **Sonoma**.
+  * If it starts with 13, you have **Ventura**.
+  * If it starts with 15, you have **Monterey**.
+  * If it starts with 11, you have **Big Sur**.
+  * If it starts with 10.15, you have **Catalina**.
+  * If it starts with 10.14, you have **Mojave**.
   * If it starts with 10.13, you have **High Sierra**.
   * If it starts with 10.12, you have **Sierra**.
   * If it starts with 10.11, you have **El Capitan**.
@@ -15,9 +23,12 @@ step "Learn your Mac OS X Version" do
   * If it starts with 10.5, you have **Leopard**.
   * If it starts with 10.4, you have **Tiger**.
   * If it starts with 10.3, you have **Panther**.
+  * If it starts with 10.2, you have **Jaguar**.
+  * If it starts with 10.1, you have **Puma**.
+  * If it starts with 10.0, you have **Cheetah**.
 
-* Write down the Mac OS X version you have.
-* In addition, to the right of the "Processor", there will be the a processor type.
+* Write down the version you have.
+* For older versions, the right of the "Processor", there will be a processor type.
   * If it ends with **Intel Core i7**, **Intel Core i5**, **Intel Core i3**, or **Intel Core m3** you are good to go.
   * If it ends with **Intel Core 2 Duo**, you are good to go.
   * If it ends with **Intel Core Duo** or something else, you are **NOT** good to go.  Please flag down a volunteer.
