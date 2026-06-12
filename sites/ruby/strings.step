@@ -19,7 +19,7 @@ step do
 'Hello, ' + 'Jane'
 'apples' * 3
 IRB
-  message 'Strings can be added to each other or multipled by numbers. What does this do?'
+  message 'Strings can be added to each other or multiplied by numbers. What does this do?'
 end
 
 step do
