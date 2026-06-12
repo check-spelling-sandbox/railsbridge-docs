@@ -29,7 +29,7 @@ If you code all day for your job, it's easy to switch windows without stating
 your intent, and use all sorts of timesaving shortcuts without even realizing
 it.
 
-* Always annouce keyboard shortcuts and commands, along with
+* Always announce keyboard shortcuts and commands, along with
 <strong>where</strong> to run them. Beginner students often get don't know
 the difference between bash, IRB, the Rails console, etc.
 * If you want, you can try
