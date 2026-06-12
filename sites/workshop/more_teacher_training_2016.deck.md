@@ -377,7 +377,7 @@ A tool for assessing how well the class understands a topic before moving on
 
 * May have used the terminal a little - to change directories for example
 * May have done an online programming tutorial or two
-* Does not have  alot of experience with Rails
+* Does not have a lot of experience with Rails
 
 ###  **Gold**  - Some Rails Experience
 
