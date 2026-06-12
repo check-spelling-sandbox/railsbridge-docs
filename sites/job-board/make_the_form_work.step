@@ -71,7 +71,7 @@ source_code :http,
     "authenticity_token"=>"f48rtxanK9/MHu7TPvd6QzygGnrwv0P2/bxLllozw5U=",
     "job"=>{
       "title"=>"Meta-organizer",
-      "description"=>"We need an somene to organize the organizers."
+      "description"=>"We need someone to organize the organizers."
     },
     "commit"=>"Create Job"
   }

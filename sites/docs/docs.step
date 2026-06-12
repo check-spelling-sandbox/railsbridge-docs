@@ -34,10 +34,10 @@ site_desc 'frontend', <<-MARKDOWN
 HTML + CSS for beginners. Make a website, no server required!
 MARKDOWN
 
-h1 'Javascript'
+h1 'JavaScript'
 
 site_desc 'javascript-snake-game', <<-MARKDOWN
-A beginner Javascript specific curriculum that walks you through building a simple game.
+A beginner JavaScript specific curriculum that walks you through building a simple game.
 MARKDOWN
 
 site_desc 'javascript-to-do-list', <<-MARKDOWN

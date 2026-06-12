@@ -69,7 +69,7 @@ with your name of choice. Note: it has to be unique! I'd suggest using your gith
     message <<-MARKDOWN
 Now click over to your browser's network tab. It should look something like this.
 
-<img src='../javascript-to-do-list/img/network_tab.png' alt="image of chrome's network tab.">
+<img src='../javascript-to-do-list/img/network_tab.png' alt="chrome's network tab.">
 
 Find the request to listalous.herokuapp.com. Was it successful? If not, why
 do you think it failed? Once you've successfully created a list, move on to the next step.

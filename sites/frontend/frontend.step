@@ -17,7 +17,7 @@ Here's a sample sketch of what your page could look like:
 
 ### Schedule
 
-* 1-2 hours of playing with basic HTML, CSS and Javascript.
+* 1-2 hours of playing with basic HTML, CSS and JavaScript.
 * 4-ish hours of building our page.
 * Optional: if you've worked with GitHub before and want to put your website online using Git and GitHub, we have instructions for that! (The curriculum has you keeping your site on your machine by default.)
 
@@ -30,7 +30,7 @@ We're going to be working with:
 * [Chrome](https://www.google.com/chrome)
   (If you're experienced with the developer tools in another browser, that may work too.);
 * The code editor of your choice.
-    * [Atom](https://atom.io/) is a free, open-source editor that can be customized with HTML, CSS, and JavaScript. A download is available for OS X 10.8+, Windows 7/8, and Ubuntu/RedHat linux.
+    * [Atom](https://atom.io/) is a free, open-source editor that can be customized with HTML, CSS, and JavaScript. A download is available for OS X 10.8+, Windows 7/8, and Ubuntu/Red Hat linux.
     * [or install a different editor](/installfest/editors)
 
 Optional tools if you're deploying to GitHub: 

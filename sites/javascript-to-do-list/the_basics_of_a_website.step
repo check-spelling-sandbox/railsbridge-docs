@@ -13,7 +13,7 @@ Modern websites are built using three languages: __HTML, CSS, and JavaScript__.
 
   * __HTML__ stands for __H__yper-__t__ext __M__arkup __L__anguage. It provides the structure for your website, using a system of nested __tags__.
 
-  * __CSS__ stands for __C__ascading __S__tyle__s__heets. It's a language for creating rules that can select various elements on the page and change their visual properties. A CSS stylesheet is composed of __rules__ that dictate how your site is presented.
+  * __CSS__ stands for __C__ascading __S__tyle __S__heets. It's a language for creating rules that can select various elements on the page and change their visual properties. A CSS stylesheet is composed of __rules__ that dictate how your site is presented.
 
   * __JavaScript__ allows users to interact with your website, making it dynamic and customizable. It's a powerful language that can be used for extraordinarily complex tasks.
 
@@ -28,7 +28,7 @@ steps do
     message <<MARKDOWN
 First thing's first: we'll be modifying our HTML. Open up index.html in your text editor. You should see something like this:
 
-<img src='img/text_editor_html.png' alt="image of an html page open in a text editor">
+<img src='img/text_editor_html.png' alt="html page open in a text editor with syntax highlighting">
 
 Take a look around. What are the different elements doing? Why are some lines indented deeper
 than others? What are those strange series of numbers and ampersands?

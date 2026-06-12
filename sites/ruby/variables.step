@@ -64,13 +64,13 @@ step do
   1 = 1
   "a" = 1
   IRB
-  message "(Notice in the last example we put the a in quotation marks to make it a string.)"
+  message "(Notice in the last example we put the 'a' in quotation marks to make it a string.)"
 end
 
 step do
   message "There are some rules about what you can name a variable."
 	message <<-VARIABLE_NAMES
-Try making variables with the following kinds of names names in irb:
+Try making variables with the following kinds of names in irb:
 
 * all letters (like 'folders')
 
@@ -82,7 +82,7 @@ Try making variables with the following kinds of names names in irb:
 
 * a number anywhere (like 'y2k')
 
-* a number at the start (like '101dalmations')
+* a number at the start (like '101dalmatians')
 
 * a number at the end (like 'starwars2')
 

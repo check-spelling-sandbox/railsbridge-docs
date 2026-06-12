@@ -1,7 +1,7 @@
 # Lesson 6 - Snake can move in every direction
 
 markdown <<-MARKDOWN
-  Now that the snake is moving on it's own, let's make it so it can move in
+  Now that the snake is moving on its own, let's make it so it can move in
   different directions!
 
   First, we'll create a function that moves the segment based upon it's
@@ -60,7 +60,7 @@ js_expected_results 'lesson-6'
 markdown <<-MARKDOWN
   ### Switch statement
 
-  A `switch` statement is another way to organize a seried of `if` and `else if`s. Here's an example:
+  A `switch` statement is another way to organize a series of `if` and `else if`s. Here's an example:
 
   ```js
   switch(color) {

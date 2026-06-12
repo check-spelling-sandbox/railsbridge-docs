@@ -15,9 +15,9 @@ First off, the event listener is slightly more complex. Instead of binding a lis
 a single form (like we did in the last lesson), we'll be binding a listener to every check
 mark in the list. jQuery's .on function allows you to do this, using __event delegation__.
 
-Secondly, it will be slightly harder to get the required information from the page when
+Second, it will be slightly harder to get the required information from the page when
 the user clicks a check mark. We need to know which item they clicked, its id (so the server
-can identify it), and whether it has been completed or not.
+can identify it), and whether or not it has been completed.
 
 And finally, we need to use jQuery to add and remove classes based on whether the item is completed.
 Let's get started!

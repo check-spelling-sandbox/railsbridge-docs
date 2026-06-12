@@ -371,18 +371,18 @@ A tool for assessing how well the class understands a topic before moving on
 
 * Student has little or no experience with the terminal or a graphical IDE
 * Might be familiar with HTML or CSS, but not necessarily
-* Unfamiliar with terms like methids, arrays, lists, hashes, or dictionaries
+* Unfamiliar with terms like methods, arrays, lists, hashes, or dictionaries
 
 ### **Green**  - Somewhat New to Programming
 
 * May have used the terminal a little - to change directories for example
 * May have done an online programming tutorial or two
-* Does not have  alot of experience with Rails
+* Does not have a lot of experience with Rails
 
 ###  **Gold**  - Some Rails Experience
 
 * Comfortable using terminal, but not a power user
-* Have general understanding of Rails app's strucutre, maybe a prior workshop or tutorial
+* Have general understanding of Rails app's structure, maybe a prior workshop or tutorial
 * Knows how to define a method in Ruby
 * Has decent handle on Ruby arrays and hashes
 
@@ -409,7 +409,7 @@ A tool for assessing how well the class understands a topic before moving on
 * Made a webpage before, maybe at a RailsBridge Front End Workshop
 * No experience with programming languages other than HTML and CSS
 
-### **Orange**  - Programmer new to Javascript
+### **Orange**  - Programmer new to JavaScript
 
 * Comfortable making a complex webpage
 * Some experience in programming language like ActionScript, C, Java, Ruby or Python

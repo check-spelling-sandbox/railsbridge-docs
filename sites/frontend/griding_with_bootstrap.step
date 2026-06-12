@@ -1,5 +1,5 @@
 goals do
-  message "As users view sites on laptops, tablets, and phones, web developers have invented a way to accomodate different screen sizes without making seperate sites. This design paradigm uses something called a 'grid' that dynamically updates depending on the screen. This challenge will help you learn to understand the grid and make responsive websites with [Bootstrap's](http://getbootstrap.com/) own system."
+  message "As users view sites on laptops, tablets, and phones, web developers have invented a way to accomodate different screen sizes without making separate sites. This design paradigm uses something called a 'grid' that dynamically updates depending on the screen. This challenge will help you learn to understand the grid and make responsive websites with [Bootstrap's](http://getbootstrap.com/) own system."
   goal "Learn about formatting a webpage with Bootstrap's grid system"
   goal "Make a website that looks good on a full sized laptop as well as on a phone."
 end

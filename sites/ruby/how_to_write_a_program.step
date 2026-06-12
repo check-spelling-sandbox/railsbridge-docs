@@ -126,10 +126,10 @@ step do
 
   message "Now, we can instantiate a Die object (passing in the number of sides as an argument) and then roll as a method called in it. This makes things a little easier to organize and break up this big method into smaller bits."
 
-  message "Think for a moment about how we could break up that big method into smaller ones. What parts can we seperate now that we have the stability of a class?"
+  message "Think for a moment about how we could break up that big method into smaller ones. What parts can we separate now that we have the stability of a class?"
 end
 step do
-  message "One option for breaking it up would be to seperate out the method of rolling a single die. Right now, 'rand(sides) + 1' doesn't necessarily make sense in context. If someone was reading this code, it might not be obvious that it is actually generating a number for a rolled die. lets break that up into its own method:"
+  message "One option for breaking it up would be to separate out the method of rolling a single die. Right now, 'rand(sides) + 1' doesn't necessarily make sense in context. If someone was reading this code, it might not be obvious that it is actually generating a number for a rolled die. lets break that up into its own method:"
 
   type_in_file 'roller.rb', <<-'CONTENTS'
     def generate_die_roll

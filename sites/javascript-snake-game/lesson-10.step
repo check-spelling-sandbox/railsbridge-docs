@@ -22,7 +22,7 @@ markdown <<-MARKDOWN
   ```
 
   This returns a segment object, which looks great! But what happens if we try
-  a index of 0?
+  an index of 0?
 
   ```js
   segmentFurtherForwardThan(0, snake);

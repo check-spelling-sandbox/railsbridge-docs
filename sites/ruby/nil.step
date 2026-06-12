@@ -36,7 +36,7 @@ end
 
 step do
     message "You may have noticed this already:"
-    irb 'puts "What does puts evalute to?"' 
+    irb 'puts "What does puts evaluate to?"' 
     message "Ruby returns what an expression evaluated to.  `puts` puts a string on the screen, but always evaluates to nil."
 
 end

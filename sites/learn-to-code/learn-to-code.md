@@ -63,7 +63,7 @@ Follow along at http://docs.railsbridge.org/learn-to-code
 
 # Technical requirements
 
-* WIFI
+* WiFi
   * Ask for SSID and password
 * a live Ruby installation
   * e.g. http://railsinstaller.org -- click on the *BIG GREEN BUTTON*

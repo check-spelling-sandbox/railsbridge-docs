@@ -74,9 +74,9 @@ js_expected_results 'lesson-2'
     JAVASCRIPT
 
     markdown <<-MARKDOWN
-      The first line declares the variable 'snake' and assigns an array to it. Within that array is one item which is defined by a set of curly-braces. These curly-braces represent another Javascript data type called an Object which is also referred to as a 'hash map'.
+      The first line declares the variable 'snake' and assigns an array to it. Within that array is one item which is defined by a set of curly-braces. These curly-braces represent another JavaScript data type called an Object which is also referred to as a 'hash map'.
 
-      Data stored in an hash map object involves two parts, a key and a value. In our code, we have two pieces of data in the object, a 'top' value and a 'left' value. The key is used to get the data from the object. So in our example, if we need to know what the current 'left' value of snake is, we type 'snake.left' which will return a value of '0'.
+      Data stored in a hash map object involves two parts, a key and a value. In our code, we have two pieces of data in the object, a 'top' value and a 'left' value. The key is used to get the data from the object. So in our example, if we need to know what the current 'left' value of snake is, we type 'snake.left' which will return a value of '0'.
 
       On the second line, we declare the variable 'drawableSnake' and assign an object to its value. The object has two pieces, the first has the key 'color' and the value '"green"', and the second has the key 'pixels' which has the value 'snake'. 'snake' is the variable we defined on the previous line, which means 'drawableSnake.pixels' will return us the object we created on the first line.
 

@@ -5,7 +5,7 @@ and a mouse. We start programs by clicking an icon, look through files and folde
 or pick a command from a dropdown menu.</P>
 
 <P>In the command line, we type commands to run programs and navigate through files and folders. We will need this to run
-  Ruby progams from files.  This lesson covers the commands we need for the workshop.</P>"
+  Ruby programs from files.  This lesson covers the commands we need for the workshop.</P>"
 
 message "It\'s helpful to keep Finder (OS X), File Explorer (Windows), or
 Nautilus (Ubuntu) open during this topic.  We\'ll make files and move between

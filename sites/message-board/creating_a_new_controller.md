@@ -16,7 +16,7 @@ We will start with index, which can be used to display the main page in your app
 
 **3\.** Create your first controller called **HomeController**.
 
-Create a controller file in the app/controller folder. *The file should always be named with lower case letters and underscores.*
+Create a controller file in the app/controller folder. *The file should always be named with lowercase letters and underscores.*
 
 ```
 app/controllers/home_controller.rb
@@ -35,13 +35,13 @@ end
 
 **5\.** Create your first view, to be associated with the `Home` controller and the `index` action.
 
-Create a new folder in app/views. *The folder name should always be lower case and the name of your controller.*
+Create a new folder in app/views. *The folder name should always be lowercase and the name of your controller.*
 
 ```
 app/views/home
 ```
 
-Create a file for your first action in the app/views/home folder. *The filename should always be lower case and the name of the action.*
+Create a file for your first action in the app/views/home folder. *The filename should always be lowercase and the name of the action.*
 
 ```
 app/views/home/index.html.rb
