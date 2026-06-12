@@ -6,7 +6,7 @@ step "Locate Xcode.mpkg" do
  message "on the OS X DVD, it is inside the \"Optional Installs\" folder."
 end
 
-step 'Double-click Xcode.mkpg' do
+step 'Double-click Xcode.mpkg' do
  message 'This will bring up a window titled *"Install XCode."*'
 end
 
