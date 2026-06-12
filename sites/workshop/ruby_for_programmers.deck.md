@@ -221,7 +221,7 @@ Solution: always put operators on top line
 # equal, double-equal, and threequal
 
 * `x = 1` means "put the value `1` in the variable `x`"
-* `x == 2` means "`true` if `x` is `2`, otherwise `false`"
+* `x == 2` means "`true` if `x` is `2`; otherwise, `false`"
 * `x === 3` means the same as `==` but sometimes more
 
 # Ruby syntax cheatsheet
