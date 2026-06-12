@@ -1,4 +1,4 @@
-step "Learn your Mac OS X Version" do
+step "Learn your macOS Version" do
   message <<-MARKDOWN
 
 * Click on the Apple icon in the top left of your screen.
