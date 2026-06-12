@@ -34,7 +34,7 @@ steps do
       end
     RUBY
 
-    message "Run 'bundle exec rspec'. This test fails! Let's add an associaton to our model. Add a belongs_to association to orange.rb:"
+    message "Run 'bundle exec rspec'. This test fails! Let's add an association to our model. Add a belongs_to association to orange.rb:"
 
     source_code :ruby, <<-RUBY
     class Orange < ActiveRecord::Base
