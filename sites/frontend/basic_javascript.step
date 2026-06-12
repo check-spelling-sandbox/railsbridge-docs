@@ -67,7 +67,7 @@ how to get to them with JavaScript so you can manipulate them.
 
 We'll go through it line by line:
 
-The first line declares a `function`, a bit a of reusable code you can refer
+The first line declares a `function`, a bit of reusable code you can refer
 to later by calling its name:
 
   MARKDOWN
