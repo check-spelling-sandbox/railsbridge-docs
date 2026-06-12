@@ -385,7 +385,7 @@ Values don't have to be unique.
 
 ### exercises	
 * Add the key "good_food" to your my_info hash and give it the same value as your favorite_food key. What happens?
-* Add a second "favorite_food" key to your my_info hash. What happens when you print out the has hash again? Why?
+* Add a second "favorite_food" key to your my_info hash. What happens when you print out the hash again? Why?
 
 
 !SLIDE
